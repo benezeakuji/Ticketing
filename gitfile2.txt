@@ -1,1 +1,2 @@
 We are adding this line from the CLI after our first git pull
+We want to try pulling directly from remote repo
